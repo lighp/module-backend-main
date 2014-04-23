@@ -1,0 +1,16 @@
+{
+    "name": "lighp/module-backend-main",
+    "description": "Main module for backend.",
+    "license": "GPLv3",
+    "version": "0.3.3",
+    "type":"lighp-module",
+    "authors": [
+        {
+            "name": "emersion",
+            "email": "contact@emersion.fr"
+        }
+    ],
+    "require": {
+        "lighp/composer-lighp-installers": "dev-master"
+    }
+}
