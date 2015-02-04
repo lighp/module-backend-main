@@ -2,7 +2,7 @@
     "name": "lighp/module-backend-main",
     "description": "Main module for backend.",
     "license": "GPLv3",
-    "version": "0.3.3",
+    "version": "0.3.4",
     "type":"lighp-module",
     "authors": [
         {
