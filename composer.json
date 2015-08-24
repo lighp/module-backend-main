@@ -2,7 +2,7 @@
     "name": "lighp/module-backend-main",
     "description": "Main module for backend.",
     "license": "GPLv3",
-    "version": "0.3.4",
+    "version": "0.3.5",
     "type":"lighp-module",
     "authors": [
         {
@@ -12,6 +12,7 @@
     ],
     "require": {
         "lighp/composer-lighp-installers": "dev-master",
-        "lighp/lib-arraysearcher": "dev-master"
+        "lighp/lib-arraysearcher": "dev-master",
+        "lighp/lib-notifications": "dev-master"
     }
 }
